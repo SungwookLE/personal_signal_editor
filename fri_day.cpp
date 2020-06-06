@@ -54,7 +54,7 @@ class signal_editor{
                 std::cout << buffer << std::endl;
             }
         }
-        std::cout << "READ FINISH"<<std::endl;
+        std::cout << "□□□READ FINISH□□□"<<std::endl;
     }
 
     void extend_signal(int immune, int exten){
@@ -76,7 +76,7 @@ class signal_editor{
                 im_cnt++;
             }
         }
-        std::cout << "EXTEND FINISH"<<std::endl;
+        std::cout << "□□□EXTEND FINISH□□□"<<std::endl;
     }
 };
 
@@ -86,7 +86,7 @@ int main(int argc, char *argv[]){
 
     try{
         if (argc < 2)
-            throw std::invalid_argument("HELP MESSAGE::");
+            throw std::invalid_argument("HELP MESSAGE:: this class is file(signal) manipulator");
     }
     catch(std::invalid_argument& ia){
         std::cout<< ia.what() << std::endl;
