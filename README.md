@@ -1,4 +1,4 @@
-# Project Title
+﻿# Project Title
 
 personal_signal_editor
 
@@ -7,6 +7,7 @@ personal_signal_editor
 This project is made for signal inout, write, read function for practice.
 And also, openCV library is added for opencv functional check.
 Briefly, It is project for personal practice
+![forfun](https://user-images.githubusercontent.com/19821690/90629111-bb443e80-e259-11ea-8011-b33aba850248.jpeg)
 
 ### Prerequisites
 
