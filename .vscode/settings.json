@@ -43,6 +43,19 @@
         "typeinfo": "cpp",
         "iterator": "cpp",
         "memory_resource": "cpp",
-        "random": "cpp"
+        "random": "cpp",
+        "hash_map": "cpp",
+        "list": "cpp",
+        "thread": "cpp",
+        "chrono": "cpp",
+        "ratio": "cpp",
+        "complex": "cpp",
+        "condition_variable": "cpp",
+        "cstring": "cpp",
+        "future": "cpp",
+        "iomanip": "cpp",
+        "mutex": "cpp",
+        "map": "cpp",
+        "set": "cpp"
     }
 }
